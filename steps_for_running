@@ -2,5 +2,4 @@ steps for running the project.
 1- Install XAMPP --> start Apache and my sql --> go admin of Apache.
 2- 1st run the database.php file (to creating and interact with DB) i.e localhost/your_folder/database.php.
 3- Then after run the main_page.html file i.e localhost/your_folder/main_page.html .
-
 (make sure all files are present in xampp/htdoc/your_folder)
